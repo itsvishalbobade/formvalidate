@@ -1,0 +1,26 @@
+span{
+    color: red;
+}
+
+.box{
+   border: 2px solid blueviolet;
+   justify-content: center;
+   width: 50vh;
+   display: flex;
+  border-radius: 10px;
+   
+}
+label{
+    color: white
+}
+input{
+    border-top: none!important;
+    border-left: none!important;
+    border-right: none!important;
+    width: 40vh;
+}
+button{
+   
+    border-radius: 10px;
+}
+
